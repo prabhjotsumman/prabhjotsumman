@@ -6,7 +6,7 @@
 
 I'm a __React Developer__ based in __Bangalore, India__. I love teaching web development and all kinds of other things and I'm ready for discussions and making new projects, playing with JS to find something interesting etc.
 
-- 🔭 I’m currently working on my online portfolio.
+- 🔭 I’m currently working on my online [portfolio](https://prabhjotsumman.github.io/portfolio/).
 - 🌱 I’m currently learning undercover Js
 - 👯 I’m looking to collaborate on any React project.
 - 🤔 I’m looking for help with my French.
