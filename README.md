@@ -1,4 +1,4 @@
-<h1 align="center">Prabhjot Singh - React Developer</h1>
+<h1 align="center">Prabhjot Singh - Senior Software Developer</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prabhjotsumman">Linkedin</a>
